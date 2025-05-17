@@ -1,0 +1,10 @@
+.my-input {
+  width: var(--input-width) !important;
+  font-size: var(--input-font-size) !important;
+}
+@media (max-width: 600px) {
+  .my-input {
+    width: 100px !important;
+    font-size: 10px !important;
+  }
+}
