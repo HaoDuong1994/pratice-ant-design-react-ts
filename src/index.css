@@ -12,6 +12,8 @@
   /* Input variable*/
   --input-width: 300px;
   --input-font-size: 16px;
+  /* Input form */
+  --input-form-with: 250px;
 }
 body {
   margin: 0;
